@@ -64,3 +64,13 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     })
   }
 }
+
+exports.createSchemaCustomization = ({ actions }) => {
+  const { createTypes } = actions
+  const typeDefs = `
+    type MdxFrontmatter implements Node {
+      description: String
+    }
+  `
+  createTypes(typeDefs)
+}
