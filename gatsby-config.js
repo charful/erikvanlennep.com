@@ -3,7 +3,7 @@ module.exports = {
     // edit below
     title: `Erik van Lennep`,
     author: `Erik van Lennep`,
-    description: `Sustainable Innovation coach and consultant. Change Maker and Climate Innovator.`,
+    description: `Sustainability Innovation coach and consultant. Change Maker and Climate Innovator.`,
     siteUrl: `https://erikvanlennep.com/`,
     social: {
       twitter: `green_heart`,
