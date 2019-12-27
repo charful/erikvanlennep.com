@@ -34,6 +34,7 @@ query {
 
     return (
 <div style={{ margin: "20px 0 40px" }}>
+  <h4 style={{ marginBottom: 0 }}>Blog posts: </h4>
           {posts.map(({ node }) => {
             const title = node.frontmatter.title || node.fields.slug
             return (
