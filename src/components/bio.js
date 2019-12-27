@@ -35,10 +35,8 @@ function Bio() {
             />
             <p>
               Written by <strong>{author}</strong>, Sustainable Innovation coach and consultant. Change Maker and Climate Innovator.
-              {` `}
-
-              You may follow him on <a href={`https://twitter.com/${social.twitter}`}>Twitter
-              </a>
+            <br />
+              Get in touch via <a href={`https://twitter.com/Green_Heart`}>Twitter</a> or <a href={`https://www.linkedin.com/in/erikvanlennep`}>LinkedIn</a>
             </p>
           </Container>
         )
