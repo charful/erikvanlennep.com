@@ -70,7 +70,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Erik van Lennep blog`,
+        name: `Erik van Lennep's site`,
         short_name: `Erik v. Lennep`,
         start_url: `/`,
         background_color: `#ffffff`,
