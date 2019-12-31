@@ -1,0 +1,12 @@
+
+/* TEAM */
+Author: Erik van Lennep
+Developer: Eduardo Esclapes
+Site: https://erikvanlennep.com
+Twitter: @Green_Heart
+Location: Maastricht, The Netherlands
+
+
+/* SITE */
+Software: Ubuntu, node-js, gatsby, react
+Hosted on netlify.com
