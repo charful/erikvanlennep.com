@@ -9,7 +9,9 @@ tags:
 ---
 *The idea of establishing an open and ongoing conversation with the world of Nature is central to coming of age initiation traditions in many traditional and indigenous cultures. Maybe it’s time the rest of us remembered how to do it as well.*
 
-I used to live in the USA, in northern New England, specifically in Vermont. The town was really a village of eight-hundred people, more cows, and even more sheep. I could walk out my back door, cross a brook and a hay field, and enter a hardwood forest deep in moss, ripe with the scent of rotting leaves and mushrooms. Coyotes sang their harmonies at night, hawks danced the skies, and one year a mountain lion passed through. Deer and moose were everywhere. We called it home as well, and while we all knew there were deeper woods to be found, for visitors from the city it constituted wilderness. !\[](/home/erik/Pictures/Podcast pics/deer_forest.jpg.scaled500.jpg) 
+I used to live in the USA, in northern New England, specifically in Vermont. The town was really a village of eight-hundred people, more cows, and even more sheep. I could walk out my back door, cross a brook and a hay field, and enter a hardwood forest deep in moss, ripe with the scent of rotting leaves and mushrooms. Coyotes sang their harmonies at night, hawks danced the skies, and one year a mountain lion passed through. Deer and moose were everywhere. We called it home as well, and while we all knew there were deeper woods to be found, for visitors from the city it constituted wilderness. 
+
+![](/assets/deer_forest.jpg.scaled500.jpg)
 
 Two and a half hours’ drive to the south lay Boston: friends and relatives, business contacts, urban culture, goods and services not to be found in Vermont. It was on one of my semi-annual forays to the city that I happened upon an odd little shop which came to exemplify a trend I found astonishing. The shop had apparently opened for the Christmas season and sold an array of wrapping materials and decorations for D.I.Y. decorating.
 
