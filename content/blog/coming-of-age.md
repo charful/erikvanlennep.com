@@ -1,18 +1,20 @@
 ---
-title: Coming of Age in the Industrialized World
-date: 2019-12-12
 path: /coming-of-age
+date: 2019-12-12T00:00:00.000Z
+title: Coming of Age in the Industrialized World
+description: ' For youth in our globalised society, there is a profound vacuum which becomes painfully apparent as they approach adolescence.'
+tags:
+  - '#Youth'
+  - '#Nature'
 ---
-
 *The idea of establishing an open and ongoing conversation with the world of Nature is central to coming of age initiation traditions in many traditional and indigenous cultures. Maybe it’s time the rest of us remembered how to do it as well.*
 
-I used to live in the USA, in northern New England, specifically in Vermont. The town was really a village of eight-hundred people, more cows, and even more sheep. I could walk out my back door, cross a brook and a hay field, and enter a hardwood forest deep in moss, ripe with the scent of rotting leaves and mushrooms. Coyotes sang their harmonies at night, hawks danced the skies, and one year a mountain lion passed through. Deer and moose were everywhere. We called it home as well, and while we all knew there were deeper woods to be found, for visitors from the city it constituted wilderness.
-![](/home/erik/Pictures/Podcast pics/deer_forest.jpg.scaled500.jpg)
+I used to live in the USA, in northern New England, specifically in Vermont. The town was really a village of eight-hundred people, more cows, and even more sheep. I could walk out my back door, cross a brook and a hay field, and enter a hardwood forest deep in moss, ripe with the scent of rotting leaves and mushrooms. Coyotes sang their harmonies at night, hawks danced the skies, and one year a mountain lion passed through. Deer and moose were everywhere. We called it home as well, and while we all knew there were deeper woods to be found, for visitors from the city it constituted wilderness. !\[](/home/erik/Pictures/Podcast pics/deer_forest.jpg.scaled500.jpg)
 Two and a half hours’ drive to the south lay Boston: friends and relatives, business contacts, urban culture, goods and services not to be found in Vermont. It was on one of my semi-annual forays to the city that I happened upon an odd little shop which came to exemplify a trend I found astonishing. The shop had apparently opened for the Christmas season and sold an array of wrapping materials and decorations for D.I.Y. decorating.
 
 What made it unique in Boston was that everything supplied was as raw and direct from nature as possible. In rows of boxes and bins there was held an array of pine cones, acorns, twisty little twigs, bright bits of tree bark, bags of fresh green moss, and sheets of hand made paper. Almost all were items I could have picked off the ground at home, for free. Here they were enshrined in individual cartons and selling at florist’s inflated prices… and the stock was clearing fast. This brought me to my astonishing revelation: people are starved for the touch of Nature, of something real.
 
-![](/home/erik/Pictures/Podcast pics/Kiefer_Zapfen,_Pine_cones_03.jpeg)
+![]()
 
 It was in Vermont that I started working as a mentor and personal development counselor to local adolescents. It wasn’t something I ever set myself as a goal, but rather a role I found myself in. For whatever reason, I was sought out by those in need and I took it seriously as an honour and a responsibility to my community and to the kids who arrived at my door. During this time I was also teaching environmental awareness in local schools, and working with the Native American community on a number of issues facing them at the time. I was actively synthesizing my various experiences and my own views on education were taking shape as I responded to the calls for mentorship.
 
