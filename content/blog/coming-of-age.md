@@ -25,9 +25,9 @@ What I came to believe, and this has only become stronger over time, is that for
 
 A person entering adolescence today is weighted with worries about university and/or a future career; with demands to suddenly begin to assume responsibilities which threaten to bleed the colour out of life. It seems in the tide of physical and emotional changes which dominate awareness, that not only will childhood be left behind, but its magic, spontaneity and playfulness as well. This is where natural reality becomes important. To take a person out to the woods, or the side of a brook and spend a day exploring the dazzling magic of the natural world is to reassure them that they need not leave magic behind.
 
-![](/home/erik/Pictures/Podcast pics/campfire.jpg.scaled500.jpg)
-
 When through other activities and development, that person learns to feel at home in their new and changing body, to become conversant with their own emotions, and then to be able to consciously form connections with the natural world, they develop just the sort of stability and rootedness which can guide them through adolescence.
+
+
 
 The idea of establishing an open and ongoing conversation with the world of Nature is central to coming of age initiation traditions in many traditional and indigenous cultures. In my own experiences as mentor, I found that as in traditional coming of age, or rites of passage work, that essentially what is needed by the other person is to be re-introduced to themself, to in effect, be handed back their own power and taught to use it responsibly.
 
