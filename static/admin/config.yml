@@ -1,5 +1,7 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: charful/erikvanlennep.com
+  open_authoring: true
 
 media_folder: content/assets
 public_folder: assets
@@ -9,12 +11,12 @@ collections:
     label: Blog
     folder: content/blog
     slug: '{{fields.path}}'
-    create: true
     path: '{{slug}}/index'
     media_folder: ''
+    create: true
     fields:
       - { name: path, label: Path }
-      - { name: date, label: Date, widget: datetime, timeFormat: false, format: DD/MM/YYYY }
+      - { name: date, label: Date, widget: datetime, timeFormat: false, format: YYYY-MM-DD }
       - { name: title, label: Title }
       - { name: description, label: Description }
       - { name: body, label: Body, widget: markdown }

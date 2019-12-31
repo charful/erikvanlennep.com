@@ -1,6 +1,6 @@
 ---
 path: re-agenda
-date: 31/12/2019
+date: 2019-12-31
 title: Reagenda
 description: 'about '
 tags:
