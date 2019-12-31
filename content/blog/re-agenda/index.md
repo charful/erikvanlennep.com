@@ -1,6 +1,6 @@
 ---
 path: re-agenda
-date: 2019-12-31
+date: 2019-12-31T00:00:00.000Z
 title: Reagenda
 description: 'about '
 tags:
@@ -16,4 +16,4 @@ re-thinking
 
 etc
 
-![](/assets/native-land-mgmt.jpg)
+![](/assets/olia-bondarenko-6dy-vfbvnve-unsplash-crop.jpg)
