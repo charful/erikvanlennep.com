@@ -15,7 +15,7 @@ Two and a half hours’ drive to the south lay Boston: friends and relatives, bu
 
 What made it unique in Boston was that everything supplied was as raw and direct from nature as possible. In rows of boxes and bins there was held an array of pine cones, acorns, twisty little twigs, bright bits of tree bark, bags of fresh green moss, and sheets of hand made paper. Almost all were items I could have picked off the ground at home, for free. Here they were enshrined in individual cartons and selling at florist’s inflated prices… and the stock was clearing fast. This brought me to my astonishing revelation: people are starved for the touch of Nature, of something real.
 
-![]()
+![](/assets/kiefer_zapfen-_pine_cones_03.jpeg)
 
 It was in Vermont that I started working as a mentor and personal development counselor to local adolescents. It wasn’t something I ever set myself as a goal, but rather a role I found myself in. For whatever reason, I was sought out by those in need and I took it seriously as an honour and a responsibility to my community and to the kids who arrived at my door. During this time I was also teaching environmental awareness in local schools, and working with the Native American community on a number of issues facing them at the time. I was actively synthesizing my various experiences and my own views on education were taking shape as I responded to the calls for mentorship.
 
