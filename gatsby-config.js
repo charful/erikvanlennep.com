@@ -39,7 +39,8 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 590,
+              maxWidth: 630,
+              linkImagesToOriginal: false,
             },
           },
           {
@@ -77,7 +78,7 @@ module.exports = {
         theme_color: `#663399`,
         display: `minimal-ui`,
         // edit below
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `static/erik-van-lennep-icon.png`,
       },
     },
     {

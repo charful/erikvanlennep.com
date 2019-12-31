@@ -1,14 +1,17 @@
 backend:
   name: git-gateway
 
-media_folder: static/assets
+media_folder: content/assets
 public_folder: assets
 
 collections:
   - name: blog
     label: Blog
     folder: content/blog
+    slug: '{{fields.path}}'
     create: true
+    path: '{{slug}}/index'
+    media_folder: ''
     fields:
       - { name: path, label: Path }
       - { name: date, label: Date, widget: datetime, timeFormat: false, format: DD/MM/YYYY }
