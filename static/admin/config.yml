@@ -1,10 +1,11 @@
 backend:
-  name: github
-  repo: charful/erikvanlennep.com
+  name: git-gateway
 
 publish_mode: editorial_workflow
 media_folder: content/assets
 public_folder: assets
+site_url: https://erikvanlennep.com
+logo_url: https://erikvanlennep.com/erik-van-lennep-icon.png
 
 collections:
   - name: blog
