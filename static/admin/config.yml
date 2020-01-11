@@ -2,7 +2,7 @@ backend:
   name: git-gateway
 
 publish_mode: editorial_workflow
-media_folder: content/assets
+media_folder: static/assets
 public_folder: assets
 site_url: https://erikvanlennep.com
 logo_url: https://erikvanlennep.com/erik-van-lennep-icon.png
@@ -11,14 +11,15 @@ collections:
   - name: blog
     label: Blog
     folder: content/blog
-    slug: '{{fields.path}}'
+    identifier_field: 'path'
     path: '{{slug}}/index'
     media_folder: ''
     create: true
     fields:
-      - { name: path, label: Path }
+      - { name: path, label: Path, pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$', "Only lowercase and - allowed in path"] }
       - { name: date, label: Date, widget: datetime, timeFormat: false, format: YYYY-MM-DD }
       - { name: title, label: Title }
       - { name: description, label: Description }
       - { name: body, label: Body, widget: markdown }
       - { name: tags, label: Tags, widget: "list", allow_add: true, default: [] }
+
