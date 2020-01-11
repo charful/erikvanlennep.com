@@ -1,7 +1,6 @@
 backend:
   name: github
   repo: charful/erikvanlennep.com
-  open_authoring: true
 
 publish_mode: editorial_workflow
 media_folder: content/assets
